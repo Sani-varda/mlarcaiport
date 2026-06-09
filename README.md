@@ -71,6 +71,18 @@ Before setting up the project locally, ensure you have:
 
 ---
 
+## 🔑 Environment Configuration
+
+To enable automated email routing for the Lead Intake Form, create a `.env.local` file in the root directory:
+
+```env
+RESEND_API_KEY=re_your_api_key
+```
+
+*Note: If `RESEND_API_KEY` is not defined, leads will still be successfully saved locally inside `/leads.json` (git-ignored for security) and logged to the server terminal, so no submissions are lost during development.*
+
+---
+
 ## 💻 Getting Started
 
 ### 1. Clone the Repository

@@ -2,9 +2,10 @@
 
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { 
   ArrowRight, FileText, Mail, Shield, Zap, Sparkles, 
-  Cpu, TrendingUp, ChevronRight, Moon, Sun, ArrowLeftRight, Download
+  Cpu, TrendingUp, ChevronRight, Moon, Sun, ArrowLeftRight, Download, Phone
 } from "lucide-react";
 import { 
   FaFacebook, FaInstagram, FaXTwitter, FaLinkedin, FaGlobe, FaCalendar, FaGithub 
@@ -1020,6 +1021,14 @@ export default function Home() {
                         <Mail className="w-4 h-4 text-blue-600" />
                         <span>founder@mlarcai.com</span>
                       </a>
+
+                      <a 
+                        href="tel:+917021628334"
+                        className="flex items-center gap-3 text-slate-600 hover:text-blue-600 transition-colors"
+                      >
+                        <Phone className="w-4 h-4 text-blue-600" />
+                        <span>+91 70216 28334</span>
+                      </a>
                       
                       <a 
                         href="https://linkedin.com/in/sani-varada-845869176" 
@@ -1041,6 +1050,13 @@ export default function Home() {
                         <span>github.com/Sani-varda</span>
                       </a>
                     </div>
+
+                    <Link 
+                      href="/leadform"
+                      className="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-full font-mono text-[9px] uppercase tracking-widest shadow-md transition-all w-max cursor-pointer"
+                    >
+                      Fill Intake Form <ArrowRight className="w-3.5 h-3.5" />
+                    </Link>
 
                     <div className="border-t border-slate-200 pt-6 flex justify-between items-center text-slate-400 font-mono text-[9px] uppercase tracking-widest">
                       <div>
