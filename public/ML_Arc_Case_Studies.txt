@@ -1,0 +1,1644 @@
+--- Page 1 ---
+ 
+ML  Arc 
+AI-Powered  Digital  Agency   
+CLIENT  CASE  STUDIES 
+2024  –  2025 
+ Where  Intelligence  Meets  Design. moonlitarc.com  
+--- Page 2 ---
+Foreword  
+  At  ML  Arc,  we  believe  that  technology  should  do  more  than  function  —  it  should  perform.  Each  
+engagement
+ 
+we
+ 
+undertake
+ 
+is
+ 
+built
+ 
+on
+ 
+a
+ 
+foundational
+ 
+question:
+ 
+What
+ 
+measurable
+ 
+transformation
+ 
+can
+ 
+AI
+ 
+and
+ 
+intelligent
+ 
+design
+ 
+unlock
+ 
+for
+ 
+this
+ 
+client?  The  following  case  studies  represent  a  cross-section  of  our  work  across  industries  —  real  estate,  
+e-commerce,
+ 
+healthcare,
+ 
+financial
+ 
+services,
+ 
+and
+ 
+professional
+ 
+consulting.
+ 
+They
+ 
+capture
+ 
+not
+ 
+just
+ 
+the
+ 
+outcomes,
+ 
+but
+ 
+the
+ 
+strategic
+ 
+thinking,
+ 
+technical
+ 
+architecture,
+ 
+and
+ 
+human
+ 
+decisions
+ 
+that
+ 
+made
+ 
+those
+ 
+outcomes
+ 
+possible.  Every  metric  in  these  pages  is  real.  Every  client  story  is  genuine.  
+--- Page 3 ---
+ CASE  STUDY  01      
+AI  Voice  Agent  &  Lead  Qualification  System Meridian  Realty  Group   |   Real  Estate  —  Mumbai  &  Pune 
+AI  Voice  Agent
+ 
+ 
+Executive  Summary
+ Meridian  Realty  Group,  a  mid-size  real  estate  developer  operating  across  Mumbai  and  Pune,  was  
+losing
+ 
+qualified
+ 
+leads
+ 
+due
+ 
+to
+ 
+delayed
+ 
+follow-up
+ 
+and
+ 
+inconsistent
+ 
+tele-calling
+ 
+performance.
+ 
+ML
+ 
+Arc
+ 
+deployed
+ 
+a
+ 
+24/7
+ 
+AI
+ 
+Voice
+ 
+Agent
+ 
+integrated
+ 
+with
+ 
+their
+ 
+CRM,
+ 
+resulting
+ 
+in
+ 
+a
+ 
+3.8x
+ 
+improvement
+ 
+in
+ 
+lead
+ 
+conversion
+ 
+rate
+ 
+within
+ 
+90
+ 
+days.  
+The  Challenge
+ Meridian  received  400–600  inbound  leads  per  month  from  Housing.com  and  99acres.  Despite  a  
+12-person
+ 
+tele-calling
+ 
+team,
+ 
+average
+ 
+response
+ 
+time
+ 
+was
+ 
+4.7
+ 
+hours
+ 
+and
+ 
+only
+ 
+31%
+ 
+of
+ 
+leads
+ 
+were
+ 
+reached
+ 
+within
+ 
+the
+ 
+first
+ 
+critical
+ 
+hour.  •  Weekend  and  after-hours  leads  went  unattended  until  Monday •  Human  agents  lacked  consistency  in  pitch  quality  across  properties •  No  structured  qualification  data  captured  before  senior  sales  hand-off •  High  agent  attrition  (38%  annually)  drove  constant  retraining  costs  
+The  Solution
+ ML  Arc  designed  and  deployed  a  multi-layer  AI  Voice  Agent  system:  Layer  1  —  Instant  Response  (0–90  seconds):  AI  voice  agent  'Aria'  called  every  new  lead  within  90  
+seconds
+ 
+of
+ 
+form
+ 
+submission
+ 
+in
+ 
+natural
+ 
+Hindi-English
+ 
+conversation. Layer  2  —  Dynamic  Qualification:  A  7-question  adaptive  script  capturing  budget,  timeline,  locality  
+preference,
+ 
+configuration
+ 
+(1/2/3
+ 
+BHK),
+ 
+funding
+ 
+source,
+ 
+and
+ 
+decision
+ 
+authority. Layer  3  —  CRM  Integration:  Qualified  leads  (score  ≥70%)  synced  to  Salesforce  with  full  call  transcript,  
+audio,
+ 
+and
+ 
+lead
+ 
+score.
+ 
+Hot
+ 
+leads
+ 
+triggered
+ 
+SMS
+ 
+to
+ 
+senior
+ 
+sales
+ 
+within
+ 
+2
+ 
+minutes. Layer  4  —  Re-engagement:  Three  algorithmically-timed  follow-up  attempts  plus  automated  WhatsApp  
+brochure
+ 
+delivery
+ 
+after
+ 
+second
+ 
+unanswered
+ 
+call.  
+Results  —  90-Day  Pre  vs.  Post  Deployment
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Lead  response  time  (avg)
+ 4.7  hours
+ 68  seconds
+ -97.6%
+ 
+Leads  reached  in  first  hour
+ 31%
+ 94%
+ +63pp
+ 
+Lead-to-site-visit  rate
+ 6.2%
+ 17.4%
+ +180%
+ 
+Lead-to-booking  conversion
+ 1.8%
+ 6.9%
+ +283%
+ 
+Monthly  cost  per  conversion
+ ₹38,400
+ ₹9,200
+ -76%
+  Revenue  Impact:  ₹2.3  crore  in  attributable  additional  bookings  in  Q1  post-deployment.  
+--- Page 4 ---
+Client  Testimonial
+ 
+"We  were  skeptical  about  AI  calling  our  clients  —  real  estate  is  trust-sensitive.  But  Aria  felt  natural  and  professional,  and  never  missed  a  lead.  Our  human  team  now  focuses  exclusively  on  hot  leads  and  site  visits.  The  ROI  was  visible  within  the  first  month." —  Rohan  Mehta,  Head  of  Sales  —  Meridian  Realty  Group 
+  
+--- Page 5 ---
+ CASE  STUDY  02      
+Full-Funnel  Meta  &  Google  Ads  +  AI-Optimized  Landing  Pages VeloFit   |   D2C  Fitness  Equipment  —  Pan-India 
+Paid  Advertising
+ 
+ 
+Executive  Summary
+ VeloFit,  a  D2C  fitness  equipment  brand,  was  running  ₹5L/month  in  paid  ads  with  a  1.4x  ROAS  and  high  
+customer
+ 
+acquisition
+ 
+costs.
+ 
+ML
+ 
+Arc
+ 
+rebuilt
+ 
+their
+ 
+full-funnel
+ 
+advertising
+ 
+and
+ 
+conversion
+ 
+infrastructure,
+ 
+reducing
+ 
+CAC
+ 
+by
+ 
+58%
+ 
+and
+ 
+scaling
+ 
+monthly
+ 
+revenue
+ 
+from
+ 
+₹18L
+ 
+to
+ 
+₹61L
+ 
+in
+ 
+five
+ 
+months.  
+The  Challenge
+ •  Meta  Ads  ROAS:  1.4x  (industry  benchmark:  3.5–5x  for  D2C  fitness) •  Google  Shopping:  340+  disapproved  product  feed  items •  Single  landing  page  for  all  ad  traffic  —  no  audience  segmentation •  No  retargeting;  losing  95%  of  site  visitors  permanently •  Creative  fatigue:  same  3  ad  creatives  running  for  6+  months  
+The  Solution
+ Phase  1  —  Diagnostic  Audit:  Identified  ₹1.2L/month  in  wasted  spend  on  irrelevant  search  terms.  
+Complete
+ 
+pixel
+ 
+audit
+ 
+and
+ 
+attribution
+ 
+model
+ 
+review. Phase  2  —  Conversion  Infrastructure:  Built  6  segmented  landing  pages  by  audience  persona  (home  
+gym,
+ 
+apartment
+ 
+dwellers,
+ 
+post-partum
+ 
+fitness,
+ 
+corporate
+ 
+wellness).
+ 
+Implemented
+ 
+server-side
+ 
+Meta
+ 
+pixel
+ 
+and
+ 
+resolved
+ 
+all
+ 
+340
+ 
+product
+ 
+feed
+ 
+disapprovals. Phase  3  —  Campaign  Redesign:  Meta  3-tier  funnel  (TOF/MOF/BOF)  with  Advantage+  Shopping  for  
+retargeting.
+ 
+Google
+ 
+restructured
+ 
+with
+ 
+SKAG
+ 
+architecture
+ 
+for
+ 
+high-intent
+ 
+terms,
+ 
+plus
+ 
+Performance
+ 
+Max
+ 
+per
+ 
+product
+ 
+category. Phase  4  —  Creative  Engine:  24  new  ad  creatives/month  with  AI-assisted  scripts  and  weekly  
+performance
+ 
+audits.  
+Results  —  Month  1  to  Month  5
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Monthly  Ad  Spend
+ ₹5,00,000
+ ₹8,50,000
+ +70%
+ 
+Monthly  Revenue
+ ₹18,00,000
+ ₹61,00,000
+ +239%
+ 
+ROAS  (blended)
+ 1.4x
+ 7.2x
+ +414%
+ 
+Customer  Acquisition  Cost
+ ₹2,840
+ ₹1,192
+ -58%
+ 
+Site  Conversion  Rate
+ 0.9%
+ 3.7%
+ +311%
+ 
+Returning  Customer  Rate
+ 8%
+ 23%
+ +15pp
+  
+Client  Testimonial
+ 
+--- Page 6 ---
+"ML  Arc  didn't  just  run  ads  —  they  rebuilt  our  entire  growth  engine.  The  landing  pages  alone  doubled  our  conversion  rate  before  we  even  touched  the  ad  budget.  Within  four  months,  we  went  from  losing  money  on  ads  to  our  highest-revenue  quarter  ever." —  Priya  Sharma,  Co-Founder  —  VeloFit 
+  
+--- Page 7 ---
+ CASE  STUDY  03      
+AI  Customer  Support  Chatbot  &  Workflow  Automation NovaCare  Health   |   Diagnostic  Chain  —  Hyderabad 
+AI  Chatbot
+ 
+ 
+Executive  Summary
+ NovaCare  Health,  operating  14  diagnostic  centers  across  Hyderabad  and  Secunderabad,  was  
+overwhelmed
+ 
+with
+ 
+900+
+ 
+daily
+ 
+patient
+ 
+inquiries.
+ 
+ML
+ 
+Arc
+ 
+deployed
+ 
+a
+ 
+multi-channel
+ 
+AI
+ 
+chatbot
+ 
+and
+ 
+automated
+ 
+appointment
+ 
+and
+ 
+report
+ 
+workflows,
+ 
+reducing
+ 
+support
+ 
+workload
+ 
+by
+ 
+71%
+ 
+and
+ 
+raising
+ 
+patient
+ 
+satisfaction
+ 
+from
+ 
+3.4
+ 
+to
+ 
+4.7
+ 
+out
+ 
+of
+ 
+5.  
+The  Challenge
+ An  8-person  support  team  was  handling  900  WhatsApp  messages,  200  website  chats,  and  150  
+inbound
+ 
+calls
+ 
+daily
+ 
+—
+ 
+40%
+ 
+of
+ 
+which
+ 
+were
+ 
+"is
+ 
+my
+ 
+report
+ 
+ready?"
+ 
+queries.
+ 
+Peak-hour
+ 
+wait
+ 
+times
+ 
+reached
+ 
+22
+ 
+minutes.  
+The  Solution
+ Layer  1  —  AI  Chatbot  (WhatsApp  +  Website):  Trained  on  480+  tests,  pricing,  branch  info,  and  FAQs.  
+Handles
+ 
+price
+ 
+lookup,
+ 
+preparation
+ 
+instructions,
+ 
+appointment
+ 
+booking,
+ 
+report
+ 
+status
+ 
+via
+ 
+UHID,
+ 
+and
+ 
+doctor
+ 
+referral
+ 
+routing. Layer  2  —  Report  Delivery  Automation:  Auto-sends  report  via  WhatsApp  PDF  and  email  the  moment  
+the
+ 
+LIMS
+ 
+approves
+ 
+results
+ 
+—
+ 
+eliminating
+ 
+the
+ 
+#1
+ 
+reason
+ 
+for
+ 
+inbound
+ 
+calls. Layer  3  —  Appointment  Reminders:  Automated  confirmation  upon  booking  plus  24-hour  reminder  with  
+map
+ 
+link
+ 
+and
+ 
+fasting
+ 
+instructions.
+ 
+No-show
+ 
+rate
+ 
+reduced
+ 
+34%. Layer  4  —  Escalation  Routing:  Complaints  and  unrecognized  queries  routed  to  human  agents  with  full  
+chat
+ 
+context,
+ 
+so
+ 
+patients
+ 
+never
+ 
+repeat
+ 
+themselves.  
+Results  —  60-Day  Post-Deployment
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Bot-resolved  queries  (no  human)
+ 0%
+ 74%
+ New
+ 
+Avg.  first  response  time
+ 22  minutes
+ 8  seconds
+ -99.4%
+ 
+Daily  support  tickets  (human)
+ 900/day
+ 260/day
+ -71%
+ 
+'Report  ready?'  inbound  calls
+ 150/day
+ 9/day
+ -94%
+ 
+Appointment  no-show  rate
+ 24%
+ 16%
+ -34%
+ 
+Patient  satisfaction  (NPS)
+ 3.4  /  5
+ 4.7  /  5
+ +38%
+  Cost  Savings:  ₹4.2L/month  in  avoided  headcount  expansion  costs.  
+Client  Testimonial
+ 
+--- Page 8 ---
+"Patients  actually  compliment  our  'quick  response'  not  knowing  it's  AI.  We've  redeployed  our  team  to  higher-value  tasks.  The  bot  handles  queries  better  than  we  expected  —  and  never  takes  a  day  off." —  Dr.  Kavitha  Rao,  Operations  Director  —  NovaCare  Health 
+  
+--- Page 9 ---
+ CASE  STUDY  04      
+SaaS  Platform  Development  —  AI  Operations  Dashboard FreightEdge  Logistics   |   B2B  Logistics  —  Bengaluru 
+SaaS  Development
+ 
+ 
+Executive  Summary
+ FreightEdge  Logistics  required  a  custom  internal  SaaS  platform  to  replace  a  fragmented  stack  of  
+spreadsheets,
+ 
+WhatsApp
+ 
+groups,
+ 
+and
+ 
+legacy
+ 
+software
+ 
+managing
+ 
+their
+ 
+fleet
+ 
+of
+ 
+340
+ 
+vehicles.
+ 
+ML
+ 
+Arc
+ 
+designed
+ 
+and
+ 
+delivered
+ 
+a
+ 
+full-stack
+ 
+AI-augmented
+ 
+operations
+ 
+dashboard
+ 
+in
+ 
+14
+ 
+weeks,
+ 
+reducing
+ 
+manual
+ 
+overhead
+ 
+by
+ 
+60%
+ 
+and
+ 
+enabling
+ 
+real-time
+ 
+visibility
+ 
+across
+ 
+their
+ 
+entire
+ 
+network.  
+The  Challenge
+ •  340  vehicles,  1,200+  monthly  shipments  across  8  cities  —  managed  via  WhatsApp  and  Excel •  Invoice  generation  took  3–4  days  post-delivery,  delaying  cash  flow •  No  centralized  visibility  of  vehicle  utilization  or  idle  time •  Driver  compliance  documents  tracked  manually  —  leading  to  regulatory  gaps •  Client  reporting  required  2  full  days  of  manual  work  each  week  
+The  Solution
+ Module  1  —  Live  Shipment  Tracker:  Real-time  GPS  dashboard  (Vamosys  integration)  with  automated  
+WhatsApp
+ 
+and
+ 
+email
+ 
+status
+ 
+updates
+ 
+at
+ 
+key
+ 
+milestones. Module  2  —  Automated  Invoice  Engine:  Invoice  auto-generated  upon  delivery  confirmation  with  rate  
+cards,
+ 
+GST,
+ 
+e-way
+ 
+bill,
+ 
+and
+ 
+digital
+ 
+signature.
+ 
+Sent
+ 
+directly
+ 
+with
+ 
+a
+ 
+payment
+ 
+link.
+ 
+Cycle:
+ 
+3–4
+ 
+days
+ 
+reduced
+ 
+to
+ 
+4
+ 
+minutes. Module  3  —  Driver  &  Vehicle  Compliance  Hub:  Centralized  repository  with  30/15/7-day  expiry  alerts  for  
+all
+ 
+regulatory
+ 
+documents
+ 
+per
+ 
+vehicle
+ 
+and
+ 
+driver. Module  4  —  Utilization  Analytics:  AI-generated  daily  reports  on  idle  vehicles,  top  routes,  cost-per-km,  
+and
+ 
+driver
+ 
+performance.
+ 
+Auto-emailed
+ 
+weekly
+ 
+to
+ 
+management. Module  5  —  Client  Self-Service  Portal:  Enterprise  clients  track  shipments,  download  invoices,  and  pull  
+reports
+ 
+without
+ 
+contacting
+ 
+FreightEdge's
+ 
+operations
+ 
+team.  
+Results  —  3  Months  Post-Launch
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Invoice  generation  time
+ 3–4  days
+ 4  minutes
+ -99.8%
+ 
+Compliance  violations  (expired  docs)
+ 4–6/month
+ 0
+ -100%
+ 
+Ops  team  hours  per  week
+ 340  hours
+ 136  hours
+ -60%
+ 
+Client  support  queries
+ 220/month
+ 47/month
+ -79%
+ 
+Vehicle  utilization  rate
+ 61%
+ 78%
+ +17pp
+ 
+Days  Sales  Outstanding  (DSO)
+ 42  days
+ 18  days
+ -57%
+  Additional  Value:  FreightEdge  won  two  new  enterprise  contracts,  citing  the  client  portal  as  a  
+competitive
+ 
+differentiator. 
+--- Page 10 ---
+ 
+Client  Testimonial
+ 
+"What  ML  Arc  built  in  14  weeks  replaced  four  different  systems  we'd  been  patching  together  for  years.  The  invoice  automation  alone  recovered  its  development  cost  in  two  months.  Our  operations  team  feels  like  they  have  superpowers  now." —  Arjun  Nair,  CEO  —  FreightEdge  Logistics 
+  
+--- Page 11 ---
+ CASE  STUDY  05      
+AI  Automation  Agent  —  Financial  Document  Processing Pinnacle  Wealth  Advisors   |   IFA  —  Delhi  NCR 
+AI  Automation
+ 
+ 
+Executive  Summary
+ Pinnacle  Wealth  Advisors,  managing  ₹220  crore  AUM  across  340  HNI  clients,  spent  60%  of  its  
+operations
+ 
+team's
+ 
+time
+ 
+on
+ 
+manual
+ 
+document
+ 
+processing.
+ 
+ML
+ 
+Arc
+ 
+built
+ 
+an
+ 
+AI
+ 
+automation
+ 
+agent
+ 
+that
+ 
+reduced
+ 
+processing
+ 
+time
+ 
+by
+ 
+84%
+ 
+and
+ 
+eliminated
+ 
+data
+ 
+entry
+ 
+errors
+ 
+entirely.  
+The  Challenge
+ Each  new  client  onboarding  required  manual  review  of  6–12  documents  (PAN,  Aadhaar,  bank  
+statements,
+ 
+CIBIL,
+ 
+ITR),
+ 
+data
+ 
+entry
+ 
+into
+ 
+portfolio
+ 
+management
+ 
+software,
+ 
+risk
+ 
+profiling,
+ 
+and
+ 
+custom
+ 
+financial
+ 
+plan
+ 
+generation
+ 
+—
+ 
+consuming
+ 
+~180
+ 
+person-hours
+ 
+per
+ 
+month
+ 
+across
+ 
+a
+ 
+4-person
+ 
+team.  
+The  Solution
+ Step  1  —  Secure  Document  Ingestion:  Branded  client  portal  with  encrypted  cloud  storage  and  
+automatic
+ 
+document
+ 
+classification. Step  2  —  AI  Document  Extraction:  Specialized  extraction  agents  per  document  type  —  bank  
+statements
+ 
+(cash
+ 
+flow,
+ 
+income,
+ 
+EMI),
+ 
+ITR
+ 
+(income
+ 
+by
+ 
+head,
+ 
+tax
+ 
+liability,
+ 
+YoY
+ 
+growth),
+ 
+CIBIL
+ 
+(score,
+ 
+active
+ 
+loans,
+ 
+repayment
+ 
+history),
+ 
+PAN/Aadhaar
+ 
+(identity
+ 
+verification
+ 
+and
+ 
+data
+ 
+extraction). Step  3  —  Automated  Risk  Profiling:  AI  synthesizes  extracted  data  with  questionnaire  responses  to  
+generate
+ 
+a
+ 
+risk
+ 
+profile
+ 
+(Conservative
+ 
+/
+ 
+Moderate
+ 
+/
+ 
+Aggressive)
+ 
+with
+ 
+supporting
+ 
+rationale
+ 
+—
+ 
+advisor-reviewable
+ 
+before
+ 
+finalization. Step  4  —  CRM  Population  &  Draft  Report:  All  data  auto-populated  into  the  portfolio  management  
+system.
+ 
+A
+ 
+2-page
+ 
+client
+ 
+profile
+ 
+with
+ 
+charts
+ 
+auto-generated
+ 
+in
+ 
+Google
+ 
+Docs
+ 
+and
+ 
+shared
+ 
+with
+ 
+the
+ 
+assigned
+ 
+advisor. Step  5  —  Compliance  Flag  System:  Income  mismatches  >20%,  CIBIL  scores  below  650,  and  
+incomplete
+ 
+Aadhaar
+ 
+linking
+ 
+are
+ 
+auto-flagged
+ 
+for
+ 
+compliance
+ 
+review.  
+Results  —  90-Day  Post-Deployment
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Document  processing  time/client
+ 6.2  hours
+ 58  minutes
+ -84%
+ 
+Manual  data  entry  errors
+ 12–18/month
+ 0
+ -100%
+ 
+Ops  team  hours  on  processing
+ 180  hrs/mo
+ 29  hrs/mo
+ -84%
+ 
+New  client  onboarding  (end-to-end)
+ 4–6  days
+ 18  hours
+ -85%
+ 
+Compliance  flags  caught  (new)
+ 0  detected
+ 11  flagged
+ New
+ 
+Client  satisfaction  (onboarding)
+ 3.8  /  5
+ 4.9  /  5
+ +29%
+  Capacity  Impact:  Operations  team  now  handles  3x  the  client  volume  with  the  same  headcount.  
+Client  Testimonial
+ 
+--- Page 12 ---
+"We've  been  able  to  grow  our  client  base  by  40%  without  adding  a  single  operations  hire.  The  AI  agent  reads  documents  faster  than  our  best  analyst  and  never  makes  data  entry  mistakes." —  Vikram  Luthra,  Managing  Director  —  Pinnacle  Wealth  Advisors 
+  
+--- Page 13 ---
+ CASE  STUDY  06      
+High-Conversion  Landing  Page  Suite Aurumé  Skincare   |   Premium  D2C  Beauty  —  Mumbai 
+Landing  Pages
+ 
+ 
+Executive  Summary
+ Aurumé  Skincare,  a  premium  ayurvedic  skincare  brand  targeting  urban  women  aged  28–45,  was  
+running
+ 
+successful
+ 
+Meta
+ 
+ad
+ 
+campaigns
+ 
+(3.2%
+ 
+CTR)
+ 
+but
+ 
+converting
+ 
+at
+ 
+only
+ 
+0.8%
+ 
+on
+ 
+their
+ 
+Shopify
+ 
+product
+ 
+page.
+ 
+ML
+ 
+Arc
+ 
+designed
+ 
+8
+ 
+campaign-matched
+ 
+landing
+ 
+pages,
+ 
+increasing
+ 
+conversion
+ 
+rate
+ 
+4.1x
+ 
+and
+ 
+generating
+ 
+₹43L
+ 
+in
+ 
+incremental
+ 
+revenue
+ 
+in
+ 
+Q1.  
+The  Challenge
+ •  Landing  page  CVR:  0.8%  vs.  2.8–4.2%  industry  benchmark  for  premium  skincare •  Generic  product  page  for  all  audiences  —  no  message-to-market  match •  No  social  proof  above  the  fold;  reviews  buried  at  the  bottom  of  the  page •  Mobile  page  load  time:  6.2  seconds  —  critical  failure  for  ad  traffic •  No  urgency  or  scarcity  mechanisms;  no  founder  story  or  trust  signals  
+The  Solution
+ Message-Match  Architecture:  Each  of  Aurumé's  8  core  ad  audiences  received  a  dedicated  landing  
+page
+ 
+with
+ 
+copy,
+ 
+imagery,
+ 
+and
+ 
+offer
+ 
+matching
+ 
+the
+ 
+ad
+ 
+that
+ 
+drove
+ 
+the
+ 
+click: •  "Dark  spots  &  hyperpigmentation"  —  Hero:  "Finally.  A  formula  that  actually  works  on  Indian  skin." •  "Anti-aging,  35+"  —  Hero:  "Your  skin  in  your  20s.  Without  turning  back  time." •  "Gifting  /  birthday"  —  Hero:  "The  gift  she'll  actually  use.  Every  day."  Design  Principles  Applied:  Single  CTA  per  page,  social  proof  above  the  fold  (star  rating  +  verified  buyer  
+count),
+ 
+trust
+ 
+stack
+ 
+(dermatologist-tested,
+ 
+Ayush-certified,
+ 
+30-day
+ 
+guarantee),
+ 
+scarcity
+ 
+signals,
+ 
+45-second
+ 
+founder
+ 
+video
+ 
+(muted
+ 
+autoplay),
+ 
+and
+ 
+mobile-first
+ 
+build
+ 
+with
+ 
+sub-2-second
+ 
+load
+ 
+time
+ 
+via
+ 
+Webflow
+ 
+and
+ 
+Cloudflare
+ 
+CDN.  A/B  Testing  Framework:  Two  headline  variants  per  page  run  for  14  days.  Winning  variant  locked  in;  
+losing
+ 
+variant
+ 
+iterated
+ 
+with
+ 
+a
+ 
+new
+ 
+hypothesis.  
+Results  —  Q1  Post-Launch  vs.  Prior  Q1
+ 
+Metric
+ Before
+ After
+ Change
+ 
+Landing  page  conversion  rate
+ 0.8%
+ 3.3%
+ +313%
+ 
+Average  Order  Value
+ ₹890
+ ₹1,240
+ +39%
+ 
+Bounce  rate
+ 74%
+ 38%
+ -49%
+ 
+Mobile  page  load  time
+ 6.2  seconds
+ 1.8  seconds
+ -71%
+ 
+ROAS  (same  ad  spend)
+ 2.1x
+ 6.4x
+ +205%
+ 
+Q1  Revenue
+ ₹28L
+ ₹71L
+ +154%
+  
+Client  Testimonial
+ 
+--- Page 14 ---
+"The  difference  between  a  0.8%  and  3.3%  conversion  rate  is  the  difference  between  a  struggling  brand  and  a  thriving  one.  ML  Arc  showed  me  I  was  leaving  money  on  the  table  at  the  landing  page.  That's  exactly  what  changed." —  Ananya  Kapoor,  Founder  —  Aurumé  Skincare 
+  
+--- Page 15 ---
+Aggregate  Impact  Summary  
+  
+Service  Area
+ Clients
+ Avg.  ROI  Multiple
+ Headline  Metric
+ 
+AI  Voice  Agents
+ 1
+ 18.4x
+ +283%  lead-to-booking  conversion
+ 
+Paid  Ads  Management
+ 2
+ 5.8x  avg.
+ ROAS  scaled  from  1.4x  to  7.2x
+ 
+AI  Chatbots
+ 1
+ 12.1x
+ 71%  reduction  in  support  workload
+ 
+SaaS  Development
+ 1
+ ROI  <  6  months
+ 60%  ops  overhead  eliminated
+ 
+AI  Automation  Agents
+ 1
+ 9.3x
+ 84%  faster  document  processing
+ 
+Landing  Pages
+ 1
+ 11.2x
+ +313%  conversion  rate  improvement
+ 
+ 
+What  Makes  ML  Arc  Different  
+  01  —  Strategy  Before  Execution:  Every  engagement  begins  with  a  diagnostic  phase.  We  identify  the  
+highest-leverage
+ 
+intervention
+ 
+before
+ 
+writing
+ 
+a
+ 
+single
+ 
+line
+ 
+of
+ 
+code
+ 
+or
+ 
+launching
+ 
+a
+ 
+single
+ 
+ad. 02  —  AI-Native  by  Design:  We  don't  retrofit  AI  onto  legacy  workflows.  We  design  systems  where  AI  is  
+the
+ 
+primary
+ 
+engine,
+ 
+with
+ 
+humans
+ 
+placed
+ 
+strategically
+ 
+for
+ 
+judgment,
+ 
+relationships,
+ 
+and
+ 
+creative
+ 
+direction. 03  —  Accountability  Through  Metrics:  We  define  success  metrics  before  project  kickoff  and  track  them  
+rigorously.
+ 
+Clients
+ 
+receive
+ 
+monthly
+ 
+performance
+ 
+reports
+ 
+with
+ 
+full
+ 
+attribution. 04  —  Full-Funnel  Thinking:  Whether  building  a  chatbot  or  managing  ads,  we  think  about  the  entire  
+customer
+ 
+journey
+ 
+—
+ 
+from
+ 
+first
+ 
+impression
+ 
+to
+ 
+repeat
+ 
+purchase. 05  —  Built  for  India,  Ready  for  the  World:  We  understand  Indian  market  nuances  —  regulatory  context,  
+payment
+ 
+behaviors,
+ 
+language
+ 
+preferences,
+ 
+platform
+ 
+dynamics
+ 
+—
+ 
+while
+ 
+delivering
+ 
+to
+ 
+global
+ 
+quality
+ 
+standards. 
+   
+ML  Arc Where  Intelligence  Meets  Design. founder@mlarcai.com   |   mlarcai.com  ©  2026  ML  Arc.  All  rights  reserved.
+ 

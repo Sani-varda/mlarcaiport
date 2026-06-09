@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #2563eb;          /* Primary Electric Blue */
+  --color-gold-light: #1d4ed8;    /* Darker Accent Blue */
+  --color-charcoal: #ffffff;      /* Clean White Background */
+  --color-charcoal-light: #f8fafc; /* Slate Light */
+  --color-cream: #0f172a;         /* Deep Navy Text */
+  --color-electric-blue: #2563eb;
+  --font-serif: var(--font-serif), sans-serif;
+  --font-sans: var(--font-sans), sans-serif;
+  --font-mono: var(--font-mono), monospace;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #0f172a;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom horizontal/vertical scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #e2e8f0;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2563eb;
+}
+
+/* Vintage animated noise layer */
+.noise-overlay {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200%;
+  background: transparent;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  opacity: 0.015;
+  pointer-events: none;
+  z-index: 9999;
+  animation: noiseAnimation 0.5s steps(5) infinite;
+  mix-blend-mode: overlay;
+}
+
+@keyframes noiseAnimation {
+  0% { transform: translate(0, 0); }
+  10% { transform: translate(-1%, -1%); }
+  20% { transform: translate(-2%, 2%); }
+  30% { transform: translate(1%, -2%); }
+  40% { transform: translate(-1%, 3%); }
+  50% { transform: translate(-2%, 1%); }
+  60% { transform: translate(3%, -1%); }
+  70% { transform: translate(0, 2%); }
+  80% { transform: translate(-3%, 3%); }
+  90% { transform: translate(2%, 1%); }
+  100% { transform: translate(1%, 0); }
+}
+
+/* Custom cinematic transitions */
+.cinematic-vignette {
+  position: fixed;
+  inset: 0;
+  box-shadow: inset 0 0 100px rgba(37, 99, 235, 0.03); /* Soft electric-blue vignette */
+  pointer-events: none;
+  z-index: 100;
+}
+
+.cinematic-letterbox-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4vh;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  z-index: 100;
+  pointer-events: none;
+  transition: height 0.5s ease;
+}
+
+.cinematic-letterbox-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4vh;
+  background: #ffffff;
+  border-top: 1px solid #e2e8f0;
+  z-index: 100;
+  pointer-events: none;
+  transition: height 0.5s ease;
+}
+
+/* Utility to hide scrollbar but keep scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Vertical marquee animation (downward / "upside-down") */
+@keyframes marquee-vertical-down {
+  0% {
+    transform: translateY(-50%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.animate-marquee-vertical-down {
+  animation: marquee-vertical-down 15s linear infinite;
+}
+
+.hover-pause:hover .animate-marquee-vertical-down {
+  animation-play-state: paused;
+}
+
+/* Gradient fade mask for scrolling edges */
+.mask-gradient-vertical {
+  mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);
+}
